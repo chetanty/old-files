@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537976272 source:f:\codeblocks\evenorodd test\main.c
+	<stdio.h>
+	<stdlib.h>
+
